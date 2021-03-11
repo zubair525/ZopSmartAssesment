@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-03-11T09:32:51Z" name="Default suite" finished-at="2021-03-11T09:32:53Z" duration-ms="2201">
+  <suite started-at="2021-03-11T11:10:54Z" name="Default suite" finished-at="2021-03-11T11:10:56Z" duration-ms="2085">
     <groups>
     </groups>
-    <test started-at="2021-03-11T09:32:51Z" name="Default test" finished-at="2021-03-11T09:32:53Z" duration-ms="2201">
-      <class name="com.zopSmart.genericUtil.Demo">
-        <test-method signature="test(java.lang.String, java.lang.String)[pri:0, instance:com.zopSmart.genericUtil.Demo@3cebbb30]" started-at="2021-03-11T09:32:53Z" name="test" data-provider="getData" finished-at="2021-03-11T09:32:53Z" duration-ms="57" status="PASS">
+    <test started-at="2021-03-11T11:10:54Z" name="Default test" finished-at="2021-03-11T11:10:56Z" duration-ms="2085">
+      <class name="com.zopSmart.genericUtil.TestScripts">
+        <test-method signature="test(java.lang.String, java.lang.String)[pri:0, instance:com.zopSmart.genericUtil.TestScripts@3cebbb30]" started-at="2021-03-11T11:10:56Z" name="test" data-provider="getData" finished-at="2021-03-11T11:10:56Z" duration-ms="49" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -26,7 +26,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method signature="test(java.lang.String, java.lang.String)[pri:0, instance:com.zopSmart.genericUtil.Demo@3cebbb30]" started-at="2021-03-11T09:32:53Z" name="test" data-provider="getData" finished-at="2021-03-11T09:32:53Z" duration-ms="26" status="PASS">
+        <test-method signature="test(java.lang.String, java.lang.String)[pri:0, instance:com.zopSmart.genericUtil.TestScripts@3cebbb30]" started-at="2021-03-11T11:10:56Z" name="test" data-provider="getData" finished-at="2021-03-11T11:10:56Z" duration-ms="29" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -44,7 +44,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method signature="test(java.lang.String, java.lang.String)[pri:0, instance:com.zopSmart.genericUtil.Demo@3cebbb30]" started-at="2021-03-11T09:32:53Z" name="test" data-provider="getData" finished-at="2021-03-11T09:32:53Z" duration-ms="20" status="PASS">
+        <test-method signature="test(java.lang.String, java.lang.String)[pri:0, instance:com.zopSmart.genericUtil.TestScripts@3cebbb30]" started-at="2021-03-11T11:10:56Z" name="test" data-provider="getData" finished-at="2021-03-11T11:10:56Z" duration-ms="20" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -62,7 +62,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method signature="test(java.lang.String, java.lang.String)[pri:0, instance:com.zopSmart.genericUtil.Demo@3cebbb30]" started-at="2021-03-11T09:32:53Z" name="test" data-provider="getData" finished-at="2021-03-11T09:32:53Z" duration-ms="22" status="PASS">
+        <test-method signature="test(java.lang.String, java.lang.String)[pri:0, instance:com.zopSmart.genericUtil.TestScripts@3cebbb30]" started-at="2021-03-11T11:10:56Z" name="test" data-provider="getData" finished-at="2021-03-11T11:10:56Z" duration-ms="19" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -80,7 +80,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method signature="test(java.lang.String, java.lang.String)[pri:0, instance:com.zopSmart.genericUtil.Demo@3cebbb30]" started-at="2021-03-11T09:32:53Z" name="test" data-provider="getData" finished-at="2021-03-11T09:32:53Z" duration-ms="20" status="PASS">
+        <test-method signature="test(java.lang.String, java.lang.String)[pri:0, instance:com.zopSmart.genericUtil.TestScripts@3cebbb30]" started-at="2021-03-11T11:10:56Z" name="test" data-provider="getData" finished-at="2021-03-11T11:10:56Z" duration-ms="21" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -99,7 +99,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method signature="test(java.lang.String, java.lang.String)[pri:0, instance:com.zopSmart.genericUtil.Demo@3cebbb30]" started-at="2021-03-11T09:32:53Z" name="test" data-provider="getData" finished-at="2021-03-11T09:32:53Z" duration-ms="20" status="PASS">
+        <test-method signature="test(java.lang.String, java.lang.String)[pri:0, instance:com.zopSmart.genericUtil.TestScripts@3cebbb30]" started-at="2021-03-11T11:10:56Z" name="test" data-provider="getData" finished-at="2021-03-11T11:10:56Z" duration-ms="21" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -118,7 +118,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method signature="test(java.lang.String, java.lang.String)[pri:0, instance:com.zopSmart.genericUtil.Demo@3cebbb30]" started-at="2021-03-11T09:32:53Z" name="test" data-provider="getData" finished-at="2021-03-11T09:32:53Z" duration-ms="20" status="PASS">
+        <test-method signature="test(java.lang.String, java.lang.String)[pri:0, instance:com.zopSmart.genericUtil.TestScripts@3cebbb30]" started-at="2021-03-11T11:10:56Z" name="test" data-provider="getData" finished-at="2021-03-11T11:10:56Z" duration-ms="21" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -137,7 +137,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method signature="test(java.lang.String, java.lang.String)[pri:0, instance:com.zopSmart.genericUtil.Demo@3cebbb30]" started-at="2021-03-11T09:32:53Z" name="test" data-provider="getData" finished-at="2021-03-11T09:32:53Z" duration-ms="19" status="PASS">
+        <test-method signature="test(java.lang.String, java.lang.String)[pri:0, instance:com.zopSmart.genericUtil.TestScripts@3cebbb30]" started-at="2021-03-11T11:10:56Z" name="test" data-provider="getData" finished-at="2021-03-11T11:10:56Z" duration-ms="20" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -156,7 +156,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method signature="test(java.lang.String, java.lang.String)[pri:0, instance:com.zopSmart.genericUtil.Demo@3cebbb30]" started-at="2021-03-11T09:32:53Z" name="test" data-provider="getData" finished-at="2021-03-11T09:32:53Z" duration-ms="19" status="PASS">
+        <test-method signature="test(java.lang.String, java.lang.String)[pri:0, instance:com.zopSmart.genericUtil.TestScripts@3cebbb30]" started-at="2021-03-11T11:10:56Z" name="test" data-provider="getData" finished-at="2021-03-11T11:10:56Z" duration-ms="20" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -175,7 +175,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-      </class> <!-- com.zopSmart.genericUtil.Demo -->
+      </class> <!-- com.zopSmart.genericUtil.TestScripts -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

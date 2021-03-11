@@ -10,7 +10,7 @@ import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 
-public class Demo {
+public class TestScripts {
 	
 	static int num = 1;
 	@DataProvider
@@ -115,14 +115,14 @@ public class Demo {
 		
 		if(flag1 && flag2 && flag3)
 		{
-			System.out.println("pass");
+			System.out.println("Test : "+TestId+" is pass");
 			String statusCode = eutil.getExcelData("Sheet1", TestId, "status Code");
 			System.out.println("status code is : " + statusCode);
 			System.out.println("Json Data is : " + exp[1]);
 			
 		}else {
-			System.out.println("fail");
-
+			System.out.println("Test :"+TestId+" is fail");
+ 
 			String statusCode = eutil.getExcelData("Sheet1", TestId, "status Code");
 			System.out.println("status code is : " + statusCode);
 		}
